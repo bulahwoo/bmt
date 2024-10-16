@@ -3,6 +3,11 @@
 Andrea Elizabeth Acurio Armas, Bulah Wu, Petr Nguyen  
 October 16, 2024
 
+### FastQC
+
+Output can be found [here (read 1)](../shared/fastqc/read1/fastqc.md)
+and [here (read 2)](../shared/fastqc/read2/fastqc.md).
+
  
 
 ### barcodeRanks()

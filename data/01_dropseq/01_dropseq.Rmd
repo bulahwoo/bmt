@@ -10,11 +10,11 @@ output: github_document
 library(knitr)
 setwd("/media/nguyen/Data1/github/bulahwoo/bmt/data/01_dropseq/")
 ```
-```{r fastqc, echo=FALSE, eval=FALSE}
+
 ### FastQC
 
-Output can be found [here (read 1)](../shared/fastqc/pc27_read1/fastqc.md) and [here (read 2)](../shared/fastqc/pc27_read2/fastqc.md).
-```
+Output can be found [here (read 1)](../shared/fastqc/read1/fastqc.md) and [here (read 2)](../shared/fastqc/read2/fastqc.md).
+
 &nbsp;
 
 ### barcodeRanks()
